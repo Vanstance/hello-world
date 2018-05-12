@@ -15,8 +15,7 @@ public class reverseInteger {
 				remainder = original % 10;
 				reverse = reverse *10 +remainder;
 				original = original / 10; //remove the last value(remainder)
-				if(reverse > INT_MAX || reverse < INT_MIN)
-					return 0;
+			
 			}
 
 			System.out.println("Reverse of number is :" + reverse);
