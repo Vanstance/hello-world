@@ -1,9 +1,9 @@
 public class roman {
    public static void main(String[] args) {
-        /* 1.先把string变成单个字母，按照顺序
-        	2. 给每个String赋值
-        	3. 如果String0 >= String 1，那么String0+1
-        			String0	<String1, 那么String1 - String-
+		/* 
+		1.先把string变成单个字母，按照顺序
+        2. 给每个String赋值
+        3. 如果String0 >= String 1，那么String0+1，String0 < String1, 那么String1 - String0
         */
         String s = "MCMXCIV";
     	int value = 0;
