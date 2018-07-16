@@ -18,7 +18,7 @@ class LinkedList{
 		Node third = new Node(3);
 
 		/* Three nodes have been allocated  dynamically.
-          We have refernces to these three blocks as first,  
+          We have refernces to these three blocks as first,   
           second and third
  
           llist.head        second              third
