@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73f20850-200a-4899-b6d4-0f8a0dd2d0c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayString/CompareVersionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayString/MaximumSizeSubarraySumEqualsk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.modules.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.vcs.xml.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.vscode/.launch.json.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Explore/LinkedList/.LinkedList.md.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Explore/LinkedList/ListNodeImple/.LinkedList.md.icloud" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestFile.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestFile.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="73f20850-200a-4899-b6d4-0f8a0dd2d0c1" name="Default Changelist" comment="new day with Amazon code">
+      <change afterPath="$PROJECT_DIR$/src/ArrayString/IntegerToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayString/LongestParli.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayString/LongestSubarrayParli.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArrayString/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArrayString/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../idea/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../idea/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/idea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/out/production/idea/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../idea/src/TwoSum.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,22 +32,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1665" />
+          <entry key="java" value="3636" />
+          <entry key="txt" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1665" />
+          <entry key="JAVA" value="3636" />
+          <entry key="PLAIN_TEXT" value="27" />
         </counts>
       </usages-collector>
     </session>
@@ -56,31 +57,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayString/MaximumSizeSubarraySumEqualsk.java">
+        <entry file="file://$PROJECT_DIR$/src/ArrayString/LongestParli.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="617">
-              <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="62" selection-end-column="51" />
+            <state relative-caret-position="286">
+              <caret line="74" column="16" lean-forward="true" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ArrayString/CompareVersionNumbers.java">
+        <entry file="file://$PROJECT_DIR$/src/ArrayString/IntegerToWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayString/TwoSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -103,6 +92,9 @@
         <option value="$PROJECT_DIR$/src/ArrayString/TwoSum.java" />
         <option value="$PROJECT_DIR$/src/ArrayString/MaximumSizeSubarraySumEqualsk.java" />
         <option value="$PROJECT_DIR$/src/ArrayString/CompareVersionNumbers.java" />
+        <option value="$PROJECT_DIR$/src/ArrayString/LongestSubarrayParli.java" />
+        <option value="$PROJECT_DIR$/src/ArrayString/LongestParli.java" />
+        <option value="$PROJECT_DIR$/src/ArrayString/IntegerToWords.java" />
       </list>
     </option>
   </component>
@@ -112,10 +104,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="1363" />
+    <option name="width" value="1440" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -157,7 +149,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542075241598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542254955017" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -177,9 +169,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CompareVersionNumbers">
+  <component name="RunManager" selected="Application.LongestSubarrayParli">
     <configuration name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayString.CompareVersionNumbers" />
+      <module name="TestFile" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayString.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestSubarrayParli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayString.LongestSubarrayParli" />
       <module name="TestFile" />
       <extension name="coverage">
         <pattern>
@@ -215,9 +220,11 @@
       <item itemvalue="Application.MaximumSizeSubarraySumEqualsk" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.CompareVersionNumbers" />
+      <item itemvalue="Application.LongestSubarrayParli" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestSubarrayParli" />
         <item itemvalue="Application.CompareVersionNumbers" />
         <item itemvalue="Application.MaximumSizeSubarraySumEqualsk" />
         <item itemvalue="Application.TwoSum" />
@@ -235,29 +242,29 @@
       <option name="presentableId" value="Default" />
       <updated>1541633310457</updated>
       <workItem from="1541633312226" duration="18000" />
-      <workItem from="1542061807366" duration="4965000" />
+      <workItem from="1542061807366" duration="11154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4983000" />
+    <option name="totallyTimeSpent" value="11172000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="1363" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="823" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28594506" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746781" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3296617" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32831737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27852085" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39811173" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2783019" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4025157" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -282,6 +289,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new day with Amazon code" />
+    <option name="LAST_COMMIT_MESSAGE" value="new day with Amazon code" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -297,17 +308,16 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ArrayString/LongestSubarrayParli.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ArrayString/MaximumSizeSubarraySumEqualsk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="617">
-          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="62" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayString/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -320,8 +330,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ArrayString/CompareVersionNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="430">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayString/MaximumSizeSubarraySumEqualsk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="60" column="8" selection-start-line="60" selection-start-column="8" selection-end-line="62" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayString/LongestSubarrayParli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayString/LongestParli.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="74" column="16" lean-forward="true" selection-start-line="74" selection-start-column="16" selection-end-line="74" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayString/IntegerToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
         </state>
       </provider>
     </entry>
