@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7096097d-ca60-4a7d-8dc3-187d8e406f75" name="Default" comment="This is the code for sort">
-      <change afterPath="$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFile/src/DataStructure/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestFile/src/LinkedList/MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestFile/src/PlayGround/ninenineproducttable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestFile/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/ArrayString/CompareVersionNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/ArrayString/MaximumSizeSubarraySumEqualsk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/SelfDividingNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/SortingSearching/MergeSortedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/out/production/TestFile/validAnagram.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile/src/ArrayString/LongestSubarrayParli.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestFile/src/ArrayString/LongestSubarrayParli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/idea.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/out/production/idea/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/src/TwoSum.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,31 +15,34 @@
     <session id="-530241743">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="cpp" value="1" />
+          <entry key="java" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="C++" value="1" />
+          <entry key="JAVA" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2798" />
+          <entry key="java" value="2953" />
           <entry key="txt" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2798" />
+          <entry key="JAVA" value="2953" />
           <entry key="PLAIN_TEXT" value="42" />
         </counts>
       </usages-collector>
@@ -66,10 +51,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java">
+        <entry file="file://$PROJECT_DIR$/TestFile/src/ICPC/a.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -103,6 +88,7 @@
         <option value="$PROJECT_DIR$/TestFile/src/DataStructure/PriorityQueueExample.java" />
         <option value="$PROJECT_DIR$/TestFile/src/LinkedList/MergeKSortedLists.java" />
         <option value="$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/TestFile/src/PlayGround/ninenineproducttable.java" />
       </list>
     </option>
   </component>
@@ -112,11 +98,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="840" />
-    <option name="y" value="23" />
-    <option name="width" value="840" />
-    <option name="height" value="972" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="70" />
+    <option name="y" value="103" />
+    <option name="width" value="1680" />
+    <option name="height" value="973" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -126,8 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,7 +135,7 @@
               <item name="hello-world" type="462c0819:PsiDirectoryNode" />
               <item name="TestFile" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="ICPC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hello-world" type="b2602c69:ProjectViewProjectNode" />
@@ -171,17 +155,24 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542502766531" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542600476504" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.24367817" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/TestFile/src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -195,7 +186,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductOfArrayExceptSelf">
+  <component name="RunManager" selected="Application.ninenineproducttable">
     <configuration name="MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinkedList.MergeKSortedLists" />
       <module name="hello-world" />
@@ -252,16 +243,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelfDividingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SelfDividingNumbers" />
-      <module name="hello-world" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="ninenineproducttable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PlayGround.ninenineproducttable" />
+      <module name="hello-world" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PlayGround.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -281,19 +278,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SelfDividingNumbers" />
       <item itemvalue="Application.MergeSortedArray" />
       <item itemvalue="Application.PriorityQueueExample" />
       <item itemvalue="Application.MergeKSortedLists" />
       <item itemvalue="Application.ProductOfArrayExceptSelf" />
+      <item itemvalue="Application.ninenineproducttable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ninenineproducttable" />
         <item itemvalue="Application.ProductOfArrayExceptSelf" />
         <item itemvalue="Application.MergeKSortedLists" />
         <item itemvalue="Application.MergeSortedArray" />
         <item itemvalue="Application.PriorityQueueExample" />
-        <item itemvalue="Application.SelfDividingNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -309,7 +306,9 @@
       <updated>1531556149362</updated>
       <workItem from="1541304386182" duration="4169000" />
       <workItem from="1541559796656" duration="1792000" />
-      <workItem from="1542405270481" duration="11060000" />
+      <workItem from="1542405270481" duration="11088000" />
+      <workItem from="1542555244053" duration="2163000" />
+      <workItem from="1542600448618" duration="267000" />
     </task>
     <task id="LOCAL-00001" summary="This is the code for sort">
       <created>1541561218908</created>
@@ -322,13 +321,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17021000" />
+    <option name="totallyTimeSpent" value="19479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
-    <editor active="true" />
+    <frame x="70" y="103" width="1680" height="973" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18559219" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1892552" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -337,13 +335,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957265" weight="0.3284091" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.495116" visible="true" weight="0.43863636" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.495116" weight="0.3280363" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.495116" weight="0.43863636" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504884" side_tool="true" visible="true" weight="0.43863636" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.504884" side_tool="true" visible="true" weight="0.3280363" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4969475" weight="0.3272727" />
@@ -420,18 +418,6 @@
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="37" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java</url>
-          <line>49</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -489,10 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#206#215#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -517,16 +499,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestFile/src/ArrayString/ProductOfArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="60" column="5" lean-forward="true" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        <state relative-caret-position="595">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFile/src/PlayGround/ninenineproducttable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestFile/src/ICPC/a.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
         </state>
       </provider>
     </entry>
