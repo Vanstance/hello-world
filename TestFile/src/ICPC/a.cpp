@@ -6,7 +6,7 @@
 #include<map>
 using namespace std;
 map<int,int> rec;
-int n,k;
+int n,k;//ss
 bool check(int x){
  int tmp = 0;
  map<int,int>::iterator iter;
